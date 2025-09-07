@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-d5vi*ro(#m#(3w-pcnd)d3x5t^qxlxb5alb062!6h&4md!xflv
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'http://luree-production.up.railway.app/'
+    'luree-production.up.railway.app'
 ]
 
 
